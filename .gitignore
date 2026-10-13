@@ -1,0 +1,39 @@
+# C++ intermediate compilation files
+*.o
+*.obj
+*.a
+*.lib
+*.pdb
+*.ilk
+*.exp
+*.map
+
+# Temporary build workspace
+/build/
+
+# Dear ImGui local UI state
+imgui.ini
+
+# Downloaded archives
+*.tar.gz
+*.zip
+
+# Logs and temporary files
+*.log
+*.tmp
+*.bak
+*.swp
+*.swo
+
+# IDE settings
+.vscode/
+.idea/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Crash dumps
+*.dmp
+*.stackdump
